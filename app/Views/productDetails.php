@@ -106,11 +106,13 @@
                                     <h5>Share This to:</h5>
                                 </div>
                                 <div class="share-on-social-widght">
-                                    <a href="https://www.facebook.com/"><i class="ri-facebook-fill"></i></a>
-                                    <a href="https://web.whatsapp.com/"><i class="ri-whatsapp-line"></i></a>
-                                    <a href="https://www.linkedin.com/uas/login-submit"><i
-                                            class="ri-linkedin-fill"></i></a>
-                                    <a href="https://www.instagram.com/"><i class="ri-instagram-line"></i></a>
+                                    <a href="https://www.facebook.com/profile.php?id=61577098631059." target="_blank"><i
+                                            class="ri-facebook-fill"></i></a>
+                                    <a href="https://wa.me/919488522011?text=Hello%20SRM%20Hydraulic%2C%20I%20need%20assistance."
+                                        target="_blank"><i class="ri-whatsapp-line"></i></a>
+                                    <!-- <a href="#"><i class="ri-linkedin-fill"></i></a> -->
+                                    <a href="https://www.instagram.com/srm_hydraulics/" target="_blank"><i
+                                            class="ri-instagram-line"></i></a>
                                 </div>
                             </div>
                         </div>

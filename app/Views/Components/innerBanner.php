@@ -14,7 +14,7 @@
                     <div class="rs-breadcrumb-menu custom-rs-breadcrumb-menu ">
                         <nav>
                             <ul>
-                                <li><span>Home</span></li>
+                                <li><a href="<?= base_url() ?>"><span>Home</span></a></li>
                                 <li><span><?= esc($name) ?></span></li>
                             </ul>
                         </nav>

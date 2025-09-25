@@ -389,3 +389,11 @@
   background-repeat: no-repeat;
   background-position: top right;
 }
+
+/*Updated by Narmathi  */
+.about-title {
+  font-size: 39px;
+}
+.about-desc {
+  text-align: justify;
+}

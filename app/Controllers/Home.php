@@ -28,6 +28,8 @@ class Home extends BaseController
         $data = [
             'name' => $config->categories[$category]['title'],
             'category' => $config->categories[$category],
+            'meta_title' => $config->categories[$category]['meta_title'],
+            'meta_description' => $config->categories[$category]['meta_description'],
         ];
 
         return view('productCategory', $data);
@@ -46,6 +48,8 @@ class Home extends BaseController
             'name' => $config->details[$details]['title'],
             'submenu' => $config->details[$details]['name'],
             'details' => $config->details[$details],
+            'meta_title' => $config->details[$details]['meta_title'],
+            'meta_description' => $config->details[$details]['meta_description'],
         ];
 
         return view('productDetails', $data);

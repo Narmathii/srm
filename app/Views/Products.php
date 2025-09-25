@@ -68,7 +68,7 @@
                 <div class="row g-5 process-counts">
                     <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="rs-portfolio-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <a href="<?= base_url('hydraulicmachines') ?>">
+                            <a href="<?= base_url('products/hydraulic-machines') ?>">
                                 <div class="rs-portfolio-thumb"
                                     data-background="<?= base_url() ?>public/assets/images/products/services-thumb-01.png">
                                 </div>

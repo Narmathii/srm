@@ -18,12 +18,9 @@
     <!-- preloader end -->
 
 
-
     <div id="rs-mouse">
         <div id="cursor-ball"></div>
     </div>
-
-
 
     <!-- Header area start -->
     <?php require("Components/Header.php") ?>
@@ -51,7 +48,7 @@
                                     <div class="rs-product-item">
                                         <div class="rs-product-thumb">
                                             <a href="<?= base_url('details/' . $product['slug']) ?>">
-                                                <img src="<?= base_url($product['image']) ?>" alt="image">
+                                                <img src="<?= base_url($product['image']) ?>" alt="<?= $product['alt'] ?>">
                                             </a>
                                             <div class="rs-product-btn">
                                                 <a class="rs-btn" href="<?= base_url('details/' . $product['slug']) ?>">View

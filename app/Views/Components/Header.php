@@ -35,9 +35,10 @@
                                                 Cylinders</a></li>
                                         <li><a href="<?= base_url('products/enggwork-ofalltypes') ?>">Engg Work Of All
                                                 Types</a></li>
-                                        <li><a href="<?= base_url('products/sheetmetal-fabrication') ?>">Sheet Metal
-                                                Fabrication</a></li>
-                                        <li><a href="<?= base_url('products/components-spares') ?>">Components &
+                                        <!-- <li><a href="<?= base_url('products/sheetmetal-fabrication') ?>">Sheet Metal
+                                                Fabrication</a></li> -->
+                                        <li><a href="<?= base_url('products/components-spares') ?>">Hydraulic
+                                                Cylinders
                                                 Spares</a></li>
                                     </ul>
                                 </li>

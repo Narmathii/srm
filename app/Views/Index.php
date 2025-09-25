@@ -73,7 +73,8 @@
                                                     <div class="rs-banner-info-btn">
                                                         <div class="rs-banner-btn">
                                                             <a class="rs-btn has-theme-orange has-icon has-bg"
-                                                                href="<?= base_url('contact') ?>">Explore More Details
+                                                                href="<?= base_url('products/hydraulic-machines') ?>">Explore
+                                                                More Details
                                                                 <span class="icon-box">
                                                                     <svg class="icon-first"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -111,9 +112,9 @@
                                         <div class="col-xxl-8 col-xl-8 col-lg-10">
                                             <div class="rs-banner-item">
                                                 <div class="rs-banner-content">
-                                                    <h1 class="rs-banner-title">Premium Hydraulic Press Machine and
+                                                    <h2 class="rs-banner-title">Premium Hydraulic Press Machine and
                                                         Hydraulic Cylinder Manufacturers
-                                                    </h1>
+                                                    </h2>
                                                     <div class="rs-banner-descrip">
                                                         <p>SRM Hydraulics, Coimbatore – Premier manufacturer of
                                                             hydraulic press machines & cylinders, delivering expert
@@ -123,8 +124,9 @@
                                                     <div class="rs-banner-info-btn">
                                                         <div class="rs-banner-btn">
                                                             <a class="rs-btn has-theme-orange has-icon has-bg"
-                                                                href="<?= base_url('contact') ?>">Explore More Details
-                                                                <span class="icon-box">
+                                                                href="<?= base_url('products/hydraulic-cylinders') ?>">Explore
+                                                                More Details
+                                                                <span class=" icon-box">
                                                                     <svg class="icon-first"
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                         viewBox="0 0 32 32">
@@ -480,7 +482,7 @@
                                             <div class="col-xl-6 col-lg-6">
                                                 <div class="rs-services-tab-content-thumb has-clip">
                                                     <img src="<?= base_url() ?>public/assets/images/products/services-thumb-01.png"
-                                                        alt="Hydraulic Press Manufacturers">
+                                                        alt="Hydraulic Press Machine in Coimbatore">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
@@ -530,7 +532,7 @@
                                             <div class="col-xl-6 col-lg-6">
                                                 <div class="rs-services-tab-content-thumb has-clip">
                                                     <img src="<?= base_url() ?>public/assets/images/products/services-thumb-02.png"
-                                                        alt="Hydraulic Press Machine in Coimbatore">
+                                                        alt="Hydraulic Powerpack Supplier">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
@@ -891,7 +893,7 @@
                             <div class="has-bg has-clip-path rs-blog-bg-thumb">
                                 <a href="<?= base_url('gallery') ?>">
                                     <img src="<?= base_url() ?>public/assets/images/gallery/gallery-thumb-1.png"
-                                        alt="Hydraulic Press Manufacturers">
+                                        alt="Hydraulic Powerpack Supplier">
                                 </a>
                             </div>
                         </div>
@@ -903,7 +905,7 @@
                                     <div class="rs-blog-thumb has-clip-path order-0 order-sm-1">
                                         <a href="<?= base_url('gallery') ?>">
                                             <img src="<?= base_url() ?>public/assets/images/gallery/gallery-thumb-2.png"
-                                                alt="Hydraulic Cylinder Manufacturers in Tamil Nadu">
+                                                alt="Hydraulic Press Machine in Coimbatore">
                                         </a>
                                     </div>
                                     <div class="rs-blog-thumb has-clip-path order-0 order-sm-1">
@@ -919,7 +921,7 @@
                                     <div class="rs-blog-thumb has-clip-path order-0 order-sm-1">
                                         <a href="<?= base_url('gallery') ?>">
                                             <img src="<?= base_url() ?>public/assets/images/gallery/gallery-thumb-4.png"
-                                                alt="Hydraulic Cylinder Manufacturers in Tamil Nadu">
+                                                alt="Hydraulic Goods Lift Supplier">
                                         </a>
                                     </div>
                                     <div class="rs-blog-thumb has-clip-path order-0 order-sm-1">

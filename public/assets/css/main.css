@@ -13059,11 +13059,10 @@ html.lenis body {
 }
 
 .rs-footer-one .rs-footer-stroke-text {
-  -webkit-text-stroke-width: 1px;
-  stroke-width: 1px;
-  -webkit-text-stroke-color: #339acd;
-  stroke: #339acd;
-  margin-bottom: 15px;
+    -webkit-text-stroke-width: 1px;
+    margin-bottom: 15px;
+    font-size: smaller;
+    color: #339acd;
 }
 
 .rs-footer-one .rs-footer-copyright P {

@@ -7,6 +7,8 @@
     ?>
     <title><?= esc($title) ?></title>
     <meta name="description" content="<?= esc($description) ?>">
+    <!-- canonical tag -->
+    <link rel="canonical" href=<?php echo current_url() ?> />
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="<?= base_url() ?>public/assets/images/logo/Fav-icon-201.png">
@@ -24,4 +26,7 @@
     <link rel="stylesheet" href="<?= base_url() ?>public/assets/css/main.css">
     <link rel="stylesheet" href="<?= base_url() ?>public/assets/css/custom.css">
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3FYRHJ0SC4"></script>
+    <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-3FYRHJ0SC4'); </script>
 </head>
